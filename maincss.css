@@ -1,0 +1,21 @@
+.well{
+  margin-top:50px;
+  margin-left:150px;
+  margin-bottom:50px;
+  margin-right:150px;
+}
+
+.heading{
+  font-size:80px;
+}
+table{
+  font-size:20px;
+}
+.text{
+  font-size:20px;
+  margin-left:150px;
+  margin-right:150px;
+}
+.link{
+  font-size:20px;
+}
